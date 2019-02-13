@@ -3,6 +3,7 @@
 ## Architecture diagram
 
 
+![Alt text](/heart_monitor/diagram.png?raw=true "diagram")
 
 ## Explanation of Architecture
 
