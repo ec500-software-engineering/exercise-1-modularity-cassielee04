@@ -1,11 +1,8 @@
-1) pip3 install twillio
-
-2) twillio api token and ssid key
-
-3) python Install certificate command line
-
-4)EDIT: Google blocks sign-in attempts from apps which do not use modern security standards (mentioned on their support page). You can however, turn on/off this safety feature by going to the link below:
-
-Go to this link and select Turn On
-https://www.google.com/settings/security/lesssecureapps
-
+flake8
+mock
+nose
+six
+requests>=2.0.0
+socksipy-branch
+PyJWT==1.4.2
+twine
