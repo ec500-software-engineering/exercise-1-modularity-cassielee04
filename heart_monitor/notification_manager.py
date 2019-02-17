@@ -1,5 +1,4 @@
 from common_types import MessageUrgency
-import settings
 
 class NotificationManager(object):
     """

@@ -1,4 +1,5 @@
-import smtplib, ssl
+import smtplib
+import ssl
 import settings
 from twilio.rest import Client
 
